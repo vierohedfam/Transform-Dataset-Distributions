@@ -5,27 +5,27 @@ The project performs a series of transformations on the 'cost_of_living' dataset
 - <a href="[https://github.com/vierohedfam/Data-Analyst-Dashboard/blob/main/Sample%20-%20Superstore_table.xlsx](https://github.com/vierohedfam/Transform-Dataset-Distributions/blob/main/cost_of_living%20%5BMConverter.eu%5D.csv)"> Superstore Data</a>
 
 ## Process
-Dataset Distribution
+### Dataset Distribution
 - Creating a Histogram of 'cost_index', 'monthly_income', 'purchasing_power_index'
-Normalize Data
+### Normalize Data
 - Selecting Numeric Columns
 - Filling Missing Values
 - Applying Normalization
 - Visualizing Normalized Data
-Standardize Data
+### Standardize Data
 - Selecting Numeric Columns (re)
 - Filling Missing Values.
 - Applying Standardization
 - Visualizing Standardized Data
-Transforming Skewed Data - Log Transformation
+### Transforming Skewed Data - Log Transformation
 - Initial Visualization of 'monthly_income'
 - Checking Initial Skewness of 'monthly_income'
 - Visualization and Skewness After Log Transformation of 'monthly_income'
 - Visualization and Skewness After Log Transformation of 'cost_index'
-Transforming Skewed Data - Box-Cox Transformation
+### Transforming Skewed Data - Box-Cox Transformation
 - Applying Box-Cox Transformation of 'monthly_income'
 - Visualization and Skewness After Box-Cox Transformation of 'monthly_income'
-Binning Individual Variables
+### Binning Individual Variables
 - Displaying Descriptive Statistics for the Dataset
 - Defining Boundaries and Bin Labels for 'cost_index'
 - Applying Binning for 'cost_index'
