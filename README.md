@@ -2,7 +2,7 @@
 The project performs a series of transformations on the 'cost_of_living' dataset to change the distribution of its data.
 
 ## Dataset Used
-- <a href="[https://github.com/vierohedfam/Data-Analyst-Dashboard/blob/main/Sample%20-%20Superstore_table.xlsx](https://github.com/vierohedfam/Transform-Dataset-Distributions/blob/main/cost_of_living%20%5BMConverter.eu%5D.csv)"> Superstore Data</a>
+- <a href="https://github.com/vierohedfam/Transform-Dataset-Distributions/blob/main/cost_of_living%20%5BMConverter.eu%5D.csv"> Superstore Data</a>
 
 ## Process
 ### Dataset Distribution
